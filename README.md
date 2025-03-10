@@ -50,14 +50,11 @@ Here’s the **upgraded** script that extracts images (img), videos (mp4), JavaS
 📢 Stay ahead in bug bounty & web scraping! Follow @cybersecplayground for more hacking tips & automation tricks!
 
 
-🔗 Telegram Channel
-t.me/cybersecplayground
+🔗 Telegram Channel (https://t.me/cybersecplayground)
 
-🔗 Github
-github.com/cybersecplayground
+🔗 Github (https://github.com/cybersecplayground)
 
-🔗 WebSite
-cybersecplayground.com
+🔗 WebSite (https://cybersecplayground.com)
 
 #BugBounty #WebScraping #EthicalHacking #JavaScript #CyberSecurity
 
